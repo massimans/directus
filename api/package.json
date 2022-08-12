@@ -77,7 +77,7 @@
 	],
 	"dependencies": {
 		"@aws-sdk/client-ses": "^3.107.0",
-		"@directus/app": "9.14.1",
+		"@directus/app": "9.14.3",
 		"@directus/drive": "9.14.1",
 		"@directus/drive-azure": "9.14.1",
 		"@directus/drive-gcs": "9.14.1",
