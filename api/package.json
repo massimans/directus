@@ -131,7 +131,7 @@
 		"knex": "2.3.0",
 		"knex-schema-inspector": "3.0.0",
 		"ldapjs": "2.3.3",
-		"liquidjs": "9.42.0",
+		"liquidjs": "10.0.0",
 		"lodash": "4.17.21",
 		"marked": "4.1.1",
 		"micromustache": "8.0.3",
